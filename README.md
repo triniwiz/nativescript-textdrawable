@@ -14,7 +14,7 @@ Text to display
 
 Text color
 
-`image.textColor = 'white'` //Color can be set using hex || short hex || name || arbg
+`image.textColor = 'white' //Color can be set using hex || short hex || name || arbg`
 
 Font Size
 
@@ -38,7 +38,7 @@ Uppercase
 
 Background Color
 
-`image.bgColor = red ` //Color can be set using hex || short hex || name || arbg ... Random color is used if unset
+`image.bgColor = red //Color can be set using hex || short hex || name || arbg ... Random color is used if unset`
 
 Bold 
 
@@ -56,7 +56,7 @@ Round Rectangle
 
 `image.type = 'roundRect'`
 
-`image.radius = 30` //default 10 if unset
+`image.radius = 30 //default 10`
 
 
 ###Xml markup settings
