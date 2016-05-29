@@ -1,0 +1,10 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="pageLoaded" xmlns:td="nativescript-textdrawable">
+  <StackLayout id="sl">
+    <td:TextDrawable width="75" height="75" text="of" textColor="white" toUpperCase="true" withBorder="1" type="round" bgColor="#2196F3"/>
+    <td:TextDrawable width="75" height="75" text="bm" textColor="white" toUpperCase="true" type="rect" bgColor="#455A64"/>
+    <td:TextDrawable width="75" height="75" text="jl" textColor="white" toUpperCase="true" type="roundRect" bgColor="#FF4081"/>
+    <td:TextDrawable width="75" height="75" fontSize="50" text="🐸🍵"  toUpperCase="true" type="rect"/>
+    <td:TextDrawable width="75" height="75" text="🍷" textColor="white" toUpperCase="true" type="roundRect" radius="40" />
+      <td:TextDrawable width="75" height="75" text="💗" textColor="white" toUpperCase="true" type="rect" />
+  </StackLayout>
+</Page>

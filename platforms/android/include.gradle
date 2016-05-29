@@ -1,0 +1,10 @@
+android {
+    productFlavors {
+        "nativescripttextdrawable" {
+            dimension "nativescripttextdrawable"
+        }
+    }
+}
+dependencies {
+   compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
+}
