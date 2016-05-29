@@ -1,5 +1,5 @@
 #Installation
-`npm install nativescript-textdrawable`
+`tns plugin add nativescript-textdrawable`
 
 ##Usage
 
