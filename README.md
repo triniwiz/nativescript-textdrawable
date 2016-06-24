@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/nativescript-textdrawable.svg)](https://www.npmjs.com/package/nativescript-textdrawable)
+[![npm](https://img.shields.io/npm/dt/nativescript-textdrawable.svg?label=npm%20downloads)](https://www.npmjs.com/package/nativescript-textdrawable)
 #Installation
 `tns plugin add nativescript-textdrawable`
 
